@@ -2,6 +2,9 @@
 
 A fast circular ImageView perfect for profile images. This is a binding of [CircleImageView from Henning Dodenhof](https://github.com/hdodenhof/CircleImageView) based on [RoundedImageView from Vince Mi](https://github.com/vinc3m1/RoundedImageView) which itself is based on [techniques recommended by Romain Guy](http://www.curious-creature.org/2012/12/11/android-recipe-1-image-with-rounded-corners/).
 
+## Download NuGet
+https://www.nuget.org/packages/Refractored.Controls.CircleImageView/
+
 ![CircleImageView](https://raw.github.com/hdodenhof/CircleImageView/master/screenshot.png)
 
 It uses a BitmapShader and **does not**:
