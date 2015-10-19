@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+   <metadata minClientVersion="2.8.1">
+       <id>Refractored.Controls.CircleImageView</id>
+       <version>1.0.1</version>
+       <title>CircleImageView for Xamarin.Android</title>
+       <authors>James Montemagno</authors>
+       <owners>James Montemagno</owners>
+       <licenseUrl>https://github.com/jamesmontemagno/CircleImageView-Xamarin.Android</licenseUrl>
+       <projectUrl>https://github.com/jamesmontemagno/CircleImageView-Xamarin.Android</projectUrl>
+       <requireLicenseAcceptance>false</requireLicenseAcceptance>
+       <description>
+         A fast circular ImageView for Xamarin.Android perfect for profile images.
+       </description>
+       <summary>A fast circular ImageView for Xamarin.Android perfect for profile images.</summary>
+       <tags>xamarin,android,xamarin.android,circleimage,circle image, circle</tags>
+   </metadata>
+   <files>
+     <!--Xamarin.Android-->
+     <file src="CircleImageView/bin/Release/Refractored.Controls.CircleImageView.dll" target="lib\MonoAndroid10\Refractored.Controls.CircleImageView.dll" />
+     <file src="CircleImageView/bin/Release/Refractored.Controls.CircleImageView.xml" target="lib\MonoAndroid10\Refractored.Controls.CircleImageView.xml" />
+   </files>
+</package>
