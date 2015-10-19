@@ -1,3 +1,5 @@
 ﻿<metadata>
-    <attr path="/api/package[@name='de.hdodenhof.circleimageview']" name="managedName">Refractored.Controls</attr>
+   <attr path="/api/package[@name='de.hdodenhof.circleimageview']" name="managedName">Refractored.Controls</attr>
+   <attr path="/api/package[@name='de.hdodenhof.circleimageview']/class[@name='CircleImageView']" name="managedName">_BaseCircleImageView</attr>
+   <!--<attr path="/api/package[@name='de.hdodenhof.circleimageview']/class[@name='CircleImageView']" name="visibility">private</attr>-->
 </metadata>
