@@ -1,0 +1,3 @@
+[submodule "src/original_circleimageview_submodule"]
+	path = src/original_circleimageview_submodule
+	url = https://github.com/hdodenhof/CircleImageView.git
