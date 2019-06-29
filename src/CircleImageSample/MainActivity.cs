@@ -1,6 +1,7 @@
 ﻿using Android.App;
 using Android.Widget;
 using Android.OS;
+using Bumptech.Glide;
 
 namespace CircleImageSample
 {
@@ -26,7 +27,7 @@ namespace CircleImageSample
             };
 
             var imageView = FindViewById<ImageView>(Resource.Id.circleimage);
-            Koush.UrlImageViewHelper.SetUrlDrawable (imageView, "https://s.gravatar.com/avatar/7d1f32b86a6076963e7beab73dddf7ca?s=300");
+            //Glide.With(this).Load("https://s.gravatar.com/avatar/7d1f32b86a6076963e7beab73dddf7ca?s=300").Into(imageView);
         }
     }
 }

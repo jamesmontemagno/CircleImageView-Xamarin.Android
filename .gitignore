@@ -4,7 +4,7 @@ Components
 *.userprefs
 Resource.designer.cs
 
-
+.vs/
 # Cake Build related
 artifacts/
 tools/*
@@ -189,3 +189,4 @@ FakesAssemblies/
 *.userprefs
 
 .DS_Store
+/.vs
